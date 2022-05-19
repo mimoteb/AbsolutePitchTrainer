@@ -1,0 +1,13 @@
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\bin\Debug\Absolute Pitch Trainer.exe.config
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\bin\Debug\Absolute Pitch Trainer.exe
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\bin\Debug\Absolute Pitch Trainer.pdb
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\bin\Debug\Absolute Pitch Trainer.xml
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\bin\Debug\MetroFramework.dll
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\bin\Debug\MetroFramework.Fonts.dll
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\obj\Debug\Absolute Pitch Trainer.vbprojResolveAssemblyReference.cache
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\obj\Debug\Absolute_Pitch_Trainer.frmMain.resources
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\obj\Debug\Absolute_Pitch_Trainer.Resources.resources
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\obj\Debug\Absolute Pitch Trainer.vbproj.GenerateResource.Cache
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\obj\Debug\Absolute Pitch Trainer.exe
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\obj\Debug\Absolute Pitch Trainer.xml
+d:\belgelerim\visual studio 2015\Projects\Absolute Pitch Trainer\Absolute Pitch Trainer\obj\Debug\Absolute Pitch Trainer.pdb
